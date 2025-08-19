@@ -16,7 +16,6 @@
 <br><br><br>
 <!-- About Me -->
 
-## <img src = "https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/about%20me.gif?raw=true" width = 10%> About Me:
 
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
