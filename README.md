@@ -51,8 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ma7moud-Eid&theme=tokyonight" />
 </p>
 
-<br>
-
 ## 📈 Most Used Languages
 
 <p align="center">
