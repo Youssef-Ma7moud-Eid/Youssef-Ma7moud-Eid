@@ -1,141 +1,181 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Youssef%20Mahmoud&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=60&descSize=20" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Flutter+Developer+%F0%9F%9A%80;Building+Scalable+Mobile+Apps+%F0%9F%93%B1;Competitive+Programmer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Youssef%20Mahmoud&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Youssef-Ma7moud-Eid&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=55&lines=Flutter+Developer+%F0%9F%9A%80+%7C+2%2B+Years+Production+Experience;BLoC+%2F+Cubit+%7C+Clean+Architecture+%7C+ESC%2FPOS;ERP+%7C+POS+%7C+SaaS+%7C+Real-world+Flutter+Apps;B.Sc.+Computer+Science+%E2%80%94+Fayoum+University+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Youssef-Ma7moud-Eid&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Youssef-Ma7moud-Eid?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+<img src="https://img.shields.io/github/followers/Youssef-Ma7moud-Eid?label=Followers&style=for-the-badge&color=7c3aed" alt="followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge" alt="open to work" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
+## 👋 Who I Am
 
-```yaml
-name       : Youssef Mahmoud Eid Attia
-location   : Fayoum, Egypt 🇪🇬
-education  : Junior @ Faculty of Computers & Artificial Intelligence, Fayoum University
-role_1     : Flutter Developer @ Go Play           (since Oct 2025)
-role_2     : Flutter Developer @ Takaml            (since Apr 2026)  # Mini SaaS ERP Project
-focus      : Mobile App Development · Architecture · Performance
-interests  : ["Clean Architecture", "State Management", "Open Source", "Problem Solving"]
-status     : Open to Internships & Junior Flutter Roles 🚀
-```
+I'm a **Flutter Developer** with **2+ years of hands-on production experience**, fresh B.Sc. graduate in Computer Science from Fayoum University (Faculty of Computers & Artificial Intelligence).
 
-<br/>
+I've shipped real features in two concurrent roles — not side projects, not tutorials — and I specialize in building **robust, scalable mobile apps** with clean architecture, hardware integrations, and complex state management.
+
+> 💡 *I don't just build apps. I architect solutions that scale.*
 
 ---
 
 ## 🏢 Professional Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Flutter Developer — <a href="#">Go Play</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Since-Oct%202025-brightgreen?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Building production-grade mobile features using Flutter & Dart</li>
-        <li>Implementing clean architecture & scalable state management</li>
-        <li>Integrating RESTful APIs and Firebase services</li>
-        <li>Performance optimization & UI/UX enhancements</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔧 Flutter Developer — <a href="#">Takaml</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Since-Apr%202026-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Project-Mini%20SaaS%20ERP-orange?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Building a Mini SaaS ERP solution from the ground up</li>
-        <li>Designing multi-tenant architecture for business clients</li>
-        <li>Developing modules: inventory, reporting & user management</li>
-        <li>Collaborating in a startup environment with agile workflows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 📱 Flutter Developer — **Go Play** `Oct 2025 → Present`
+
+- Building production-grade mobile features with Flutter & Dart for a real user base
+- Implementing Clean Architecture with BLoC/Cubit state management
+- Integrating RESTful APIs, Firebase services, and third-party SDKs
+- Driving UI/UX performance improvements and code quality
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🔧 Flutter Developer — **Takamul** `Apr 2026 → Present`
+
+> *Mini SaaS ERP — built from the ground up*
+
+- **Architected** a full POS system including receipt printing over **Bluetooth / USB / Ethernet**
+- Implemented **ESC/POS raster pipeline** with bilingual Arabic/English support via offscreen text rasterization
+- Resolved **Android 12+ PlatformException** issues (PendingIntent compatibility for USB)
+- Built multi-module ERP: inventory management, shift reports, branch-aware invoicing
+- Developed **A4 invoice preview system** with live API integration and share/save fidelity
+- Fixed critical async/state bugs under production pressure (`setState`, `isClosed` guards, `Cubit` lifecycle)
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### 📱 Mobile & Core
+### Mobile & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-### ☁️ Backend & Database
+### State Management & Architecture
+<p>
+  <img src="https://img.shields.io/badge/BLoC%2FCubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-0f172a?style=for-the-badge"/>
+</p>
+
+### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
 
-### 🔧 Dev Tools & Languages
+### Hardware Integrations
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp,java,linux,postman" />
+  <img src="https://img.shields.io/badge/Bluetooth%20Thermal-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/USB%20Printer-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethernet%20ESC%2FPOS-3B82F6?style=for-the-badge"/>
+</p>
+
+### Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,cpp,java" />
 </p>
 
 </div>
 
 ---
 
-## 🏆 What I Build
+## 🔥 Highlight Projects
 
-<div align="center">
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/smartphone.png" width="40"/><br/>
-      <b>Mobile Apps</b><br/>
-      <sub>Production Flutter apps with clean architecture, BLoC/Cubit state management & smooth UX</sub>
+    <td width="50%" valign="top">
+      <h3>🧾 Takamul POS — Printer Engine</h3>
+      <img src="https://img.shields.io/badge/Flutter-Production-0175C2?style=flat-square&logo=flutter"/>
+      <img src="https://img.shields.io/badge/ESC%2FPOS-Hardware-F97316?style=flat-square"/>
+      <br/><br/>
+      <p>Rebuilt the printing architecture from a Flutter widget screenshot pipeline to a direct <strong>ESC/POS command pipeline</strong> — drastically faster, higher quality, and bilingual (Arabic + English).</p>
+      <ul>
+        <li>Supports Bluetooth, USB, and Ethernet simultaneously</li>
+        <li>Offscreen text rasterization for RTL Arabic support</li>
+        <li>Android 12+ USB PendingIntent compatibility</li>
+        <li>Parallelized image capture to reduce print latency</li>
+      </ul>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/cloud.png" width="40"/><br/>
-      <b>SaaS Products</b><br/>
-      <sub>ERP & business tools with multi-tenant architecture and real-world usability</sub>
+    <td width="50%" valign="top">
+      <h3>🏠 Sakeni — Real Estate App</h3>
+      <img src="https://img.shields.io/badge/Flutter-BLoC-7c3aed?style=flat-square&logo=flutter"/>
+      <img src="https://img.shields.io/badge/AI%20Integration-22c55e?style=flat-square"/>
+      <br/><br/>
+      <p>Full-featured real estate app with advanced Flutter architecture and AI-powered features.</p>
+      <ul>
+        <li>Identity verification flow with BLoC/Cubit</li>
+        <li>TableCalendar-based property availability management (create + edit modes)</li>
+        <li>AI price prediction screen with animated loading states</li>
+        <li>Fixed <code>Bad state: Cannot emit after close</code> with isClosed guards</li>
+      </ul>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/><br/>
-      <b>Open Source</b><br/>
-      <sub>Contributing to the community and building reusable, well-documented packages</sub>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Takamul ERP — Invoicing System</h3>
+      <img src="https://img.shields.io/badge/A4%20Invoice-PDF-DC2626?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Branch-0175C2?style=flat-square"/>
+      <br/><br/>
+      <ul>
+        <li>Live branch info fetched from API and embedded in A4 invoice previews</li>
+        <li>High-fidelity share/save via <code>RepaintBoundary</code> capture</li>
+        <li>Shift report printing with Overlay-based rasterization</li>
+        <li>Treasury dropdown and async state race condition fixes</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👣 Step Counter — Android (University)</h3>
+      <img src="https://img.shields.io/badge/Android-Native%20Sensors-3DDC84?style=flat-square&logo=android"/>
+      <br/><br/>
+      <ul>
+        <li>Dual-sensor architecture: <code>TYPE_STEP_COUNTER</code> + <code>TYPE_STEP_DETECTOR</code> + Accelerometer</li>
+        <li>Activity classification: Walking / Jogging / Running with hysteresis</li>
+        <li>Fully offline — no network dependency</li>
+        <li>Tested on Xiaomi Redmi 14C / MIUI</li>
+      </ul>
     </td>
   </tr>
 </table>
-</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Education
+
+**B.Sc. Computer Science & Artificial Intelligence**
+Faculty of Computers & Artificial Intelligence — Fayoum University 🎓
+
+*Coursework: Mobile Development · Parallel Computing (MPI/C++) · AI & Expert Systems · MANETs · Algorithms*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ma7moud-Eid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ma7moud-Eid&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ma7moud-Eid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ma7moud-Eid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ma7moud-Eid&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ma7moud-Eid&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=6" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ma7moud-Eid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -143,10 +183,10 @@ status     : Open to Internships & Junior Flutter Roles 🚀
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ma7moud-Eid&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ma7moud-Eid&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -155,18 +195,21 @@ status     : Open to Internships & Junior Flutter Roles 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mahmoud-eid-attia-067433272/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ym1977@fayoum.edu.eg)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Ma7moud-Eid)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000799459)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mahmoud-eid-attia-067433272/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ym1977@fayoum.edu.eg)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Ma7moud-Eid)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000799459)
+
+<br/>
+
+*📍 Fayoum, Egypt — Open to remote, hybrid, or relocation*
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>⚡ Made with passion by <a href="https://www.linkedin.com/in/youssef-mahmoud-eid-attia-067433272/">Youssef Mahmoud</a> · Flutter Developer · 2026</sub>
+  <sub>Flutter Developer · B.Sc. CS Graduate · 2026 · Built with passion 🚀</sub>
 </div>
