@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-Flutter Developer with **1+ year of production experience** across two concurrent roles. B.Sc. Computer Science graduate — Faculty of Computers & AI, Fayoum University.
+Flutter Developer with **1+ year experience** across two concurrent roles. B.Sc. Computer Science graduate — Faculty of Computers & AI, Fayoum University.
 
 I build real apps for real users — from POS hardware integrations to real-time event platforms.
 
@@ -36,7 +36,7 @@ I build real apps for real users — from POS hardware integrations to real-time
 
 - 🔔 Push notification system with deep-link navigation
 - 🎟️ QR ticket scanning with real-time validation
-- ⚡ Real-time event sync via Firebase
+- ⚡ Real-time event sync via Backend
 - 🏗️ Clean Architecture + BLoC/Cubit across all modules
 
 ---
