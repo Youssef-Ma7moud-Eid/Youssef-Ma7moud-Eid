@@ -22,9 +22,7 @@
 
 ## 👋 About Me
 
-Flutter Developer with **1+ year experience** building production apps across two concurrent roles. B.Sc. Computer Science — Faculty of Computers & AI, Fayoum University.
-
-From **ESC/POS thermal printing engines** to **live sports event platforms** — I ship features that work in the real world.
+Flutter Developer with 1+ year of experience delivering production-ready mobile applications, including a live sports platform and a mini SaaS solution for ESC/POS thermal printing. B.Sc. in Computer Science, Faculty of Computers & AI, Fayoum University.
 
 ---
 
