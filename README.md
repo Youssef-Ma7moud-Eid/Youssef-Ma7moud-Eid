@@ -34,10 +34,10 @@ I've shipped real features in two concurrent roles — not side projects, not tu
 
 ### 📱 Flutter Developer — **Go Play** `Oct 2025 → Present`
 
-- Building production-grade mobile features with Flutter & Dart for a real user base
-- Implementing Clean Architecture with BLoC/Cubit state management
-- Integrating RESTful APIs, Firebase services, and third-party SDKs
-- Driving UI/UX performance improvements and code quality
+- 🔔 Built end-to-end **push notification system** with deep-link navigation
+- 🎟️ Implemented **QR-based ticket scanning** with real-time validation
+- ⚡ Developed **real-time features** (live updates & event sync) via Firebase
+- 🏗️ Clean Architecture + BLoC/Cubit across all modules
 
 ---
 
@@ -45,12 +45,10 @@ I've shipped real features in two concurrent roles — not side projects, not tu
 
 > *Mini SaaS ERP — built from the ground up*
 
-- **Architected** a full POS system including receipt printing over **Bluetooth / USB / Ethernet**
-- Implemented **ESC/POS raster pipeline** with bilingual Arabic/English support via offscreen text rasterization
-- Resolved **Android 12+ PlatformException** issues (PendingIntent compatibility for USB)
-- Built multi-module ERP: inventory management, shift reports, branch-aware invoicing
-- Developed **A4 invoice preview system** with live API integration and share/save fidelity
-- Fixed critical async/state bugs under production pressure (`setState`, `isClosed` guards, `Cubit` lifecycle)
+- 🖨️ Built ESC/POS printing engine over **Bluetooth / USB / Ethernet** with bilingual (AR/EN) support
+- ⚙️ Fixed Android 12+ USB crash (`PendingIntent` compatibility) — zero regressions
+- 📄 A4 invoice system with live API data, multi-branch support, and high-fidelity export
+- 📊 Shift reports, inventory, and user management modules across a multi-tenant SaaS architecture
 
 ---
 
@@ -91,63 +89,38 @@ I've shipped real features in two concurrent roles — not side projects, not tu
 
 ---
 
-## 🔥 Highlight Projects
+## 🔥 Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 Takamul POS — Printer Engine</h3>
-      <img src="https://img.shields.io/badge/Flutter-Production-0175C2?style=flat-square&logo=flutter"/>
-      <img src="https://img.shields.io/badge/ESC%2FPOS-Hardware-F97316?style=flat-square"/>
-      <br/><br/>
-      <p>Rebuilt the printing architecture from a Flutter widget screenshot pipeline to a direct <strong>ESC/POS command pipeline</strong> — drastically faster, higher quality, and bilingual (Arabic + English).</p>
-      <ul>
-        <li>Supports Bluetooth, USB, and Ethernet simultaneously</li>
-        <li>Offscreen text rasterization for RTL Arabic support</li>
-        <li>Android 12+ USB PendingIntent compatibility</li>
-        <li>Parallelized image capture to reduce print latency</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Sakeni — Real Estate App</h3>
-      <img src="https://img.shields.io/badge/Flutter-BLoC-7c3aed?style=flat-square&logo=flutter"/>
-      <img src="https://img.shields.io/badge/AI%20Integration-22c55e?style=flat-square"/>
-      <br/><br/>
-      <p>Full-featured real estate app with advanced Flutter architecture and AI-powered features.</p>
-      <ul>
-        <li>Identity verification flow with BLoC/Cubit</li>
-        <li>TableCalendar-based property availability management (create + edit modes)</li>
-        <li>AI price prediction screen with animated loading states</li>
-        <li>Fixed <code>Bad state: Cannot emit after close</code> with isClosed guards</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Takamul ERP — Invoicing System</h3>
-      <img src="https://img.shields.io/badge/A4%20Invoice-PDF-DC2626?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Multi--Branch-0175C2?style=flat-square"/>
-      <br/><br/>
-      <ul>
-        <li>Live branch info fetched from API and embedded in A4 invoice previews</li>
-        <li>High-fidelity share/save via <code>RepaintBoundary</code> capture</li>
-        <li>Shift report printing with Overlay-based rasterization</li>
-        <li>Treasury dropdown and async state race condition fixes</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👣 Step Counter — Android (University)</h3>
-      <img src="https://img.shields.io/badge/Android-Native%20Sensors-3DDC84?style=flat-square&logo=android"/>
-      <br/><br/>
-      <ul>
-        <li>Dual-sensor architecture: <code>TYPE_STEP_COUNTER</code> + <code>TYPE_STEP_DETECTOR</code> + Accelerometer</li>
-        <li>Activity classification: Walking / Jogging / Running with hysteresis</li>
-        <li>Fully offline — no network dependency</li>
-        <li>Tested on Xiaomi Redmi 14C / MIUI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🎮 Go Play — Sports & Entertainment Platform `Oct 2025 → Present`
+
+<img src="https://img.shields.io/badge/Flutter-Production-0175C2?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/Firebase-Real--time-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/BLoC%2FCubit-State%20Management-7c3aed?style=flat-square"/>
+
+- 🔔 Built a **push notification system** — delivery, scheduling, and deep-link navigation on tap
+- 🎟️ Implemented **QR ticket scanning** — real-time validation with instant feedback UI
+- ⚡ Integrated **real-time features** via Firebase (live updates, event sync, concurrent users)
+- 🏗️ Applied Clean Architecture + BLoC/Cubit across all features for maintainability at scale
+
+---
+
+### 🧾 Takamul — Mini SaaS ERP `Apr 2026 → Present`
+
+<img src="https://img.shields.io/badge/Flutter-Production-0175C2?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/ESC%2FPOS-Hardware%20Integration-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Tenant-SaaS-22c55e?style=flat-square"/>
+
+**POS & Printing Engine**
+- 🖨️ Architected ESC/POS printing pipeline over **Bluetooth / USB / Ethernet** from scratch
+- 🌐 Bilingual receipts (Arabic + English) via offscreen RTL text rasterization
+- ⚙️ Resolved Android 12+ `PendingIntent` USB crash — zero regressions in production
+- ⚡ Parallelized image capture → significantly reduced print latency
+
+**ERP Modules**
+- 📄 A4 invoice preview with live branch API data + high-fidelity share/save
+- 📊 Shift reports with Overlay-based rasterization for accurate capture
+- 🏪 Multi-branch architecture — dynamic employee & inventory loading per branch
+- 🐛 Resolved critical async bugs: `setState` after dispose, `Cubit` lifecycle, race conditions
 
 ---
 
