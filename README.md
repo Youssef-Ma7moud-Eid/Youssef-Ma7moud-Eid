@@ -74,7 +74,7 @@ Flutter Developer with 1+ year of experience delivering production-ready mobile 
 ## 🎓 Education
 
 **B.Sc. Computer Science & Artificial Intelligence** — Fayoum University 🎓
-`Mobile Development · Algorithms · AI · Parallel Computing (MPI/C++)`
+
 
 ---
 
