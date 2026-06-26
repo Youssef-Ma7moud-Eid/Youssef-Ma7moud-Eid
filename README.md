@@ -32,7 +32,9 @@ I build real apps for real users — from POS hardware integrations to real-time
 
 ### 📱 Flutter Developer — **Go Play** `Oct 2025 → Present`
 
-<img src="https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/BLoC%2FCubit-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Remote%20Part--Time-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Saudi%20Arabia-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PC9zdmc+"/> <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/BLoC%2FCubit-7c3aed?style=flat-square"/>
+
+> 🌍 Remote · Part-time · Saudi Arabia
 
 - 🔔 Push notification system with deep-link navigation
 - 🎟️ QR ticket scanning with real-time validation
@@ -43,7 +45,9 @@ I build real apps for real users — from POS hardware integrations to real-time
 
 ### 🔧 Flutter Developer — **Takamul** `Apr 2026 → Present`
 
-<img src="https://img.shields.io/badge/Mini%20SaaS%20ERP-0f172a?style=flat-square"/> <img src="https://img.shields.io/badge/ESC%2FPOS-F97316?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Tenant-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Remote%20Outsource-0f172a?style=flat-square"/> <img src="https://img.shields.io/badge/Mini%20SaaS%20ERP-0f172a?style=flat-square"/> <img src="https://img.shields.io/badge/ESC%2FPOS-F97316?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Tenant-22c55e?style=flat-square"/>
+
+> 🌍 Remote · Outsource Project
 
 - 🖨️ ESC/POS printing engine — Bluetooth / USB / Ethernet + bilingual AR/EN receipts
 - ⚙️ Fixed Android 12+ USB `PendingIntent` crash in production
@@ -108,7 +112,7 @@ I build real apps for real users — from POS hardware integrations to real-time
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Ma7moud-Eid)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000799459)
 
-*📍 Fayoum, Egypt — Open to remote or relocation*
+*📍 Giza, Egypt — Open to remote or relocation*
 
 </div>
 
