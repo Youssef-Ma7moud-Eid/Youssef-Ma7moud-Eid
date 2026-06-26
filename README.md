@@ -22,9 +22,9 @@
 
 ## 👋 About Me
 
-Flutter Developer with **1+ year experience** across two concurrent roles. B.Sc. Computer Science graduate — Faculty of Computers & AI, Fayoum University.
+Flutter Developer with **1+ year experience** building production apps across two concurrent roles. B.Sc. Computer Science — Faculty of Computers & AI, Fayoum University.
 
-I build real apps for real users — from POS hardware integrations to real-time event platforms.
+From **ESC/POS thermal printing engines** to **live sports event platforms** — I ship features that work in the real world.
 
 ---
 
@@ -32,7 +32,7 @@ I build real apps for real users — from POS hardware integrations to real-time
 
 ### 📱 Flutter Developer — **Go Play** `Oct 2025 → Present`
 
-<img src="https://img.shields.io/badge/Remote%20Part--Time-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Saudi%20Arabia-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PC9zdmc+"/> <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/BLoC%2FCubit-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Remote%20Part--Time-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Saudi%20Arabia-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PC9zdmc+"/> <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Backend%20Integration-64748b?style=flat-square"/> <img src="https://img.shields.io/badge/BLoC%2FCubit-7c3aed?style=flat-square"/>
 
 > 🌍 Remote · Part-time · Saudi Arabia
 
@@ -60,7 +60,7 @@ I build real apps for real users — from POS hardware integrations to real-time
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,postman" />
 
 <br/><br/>
 
