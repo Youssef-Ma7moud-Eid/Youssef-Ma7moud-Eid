@@ -41,7 +41,7 @@ Flutter Developer with 1+ year of experience delivering production-ready mobile 
 
 ---
 
-### 🔧 Flutter Developer — **Takamul** `Apr 2026 → Present`
+### 🔧 Flutter Developer — **Takamul** `March 2026 → Jul 2026 `
 
 <img src="https://img.shields.io/badge/Remote%20Outsource-0f172a?style=flat-square"/> <img src="https://img.shields.io/badge/Mini%20SaaS%20ERP-0f172a?style=flat-square"/> <img src="https://img.shields.io/badge/ESC%2FPOS-F97316?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Tenant-22c55e?style=flat-square"/>
 
